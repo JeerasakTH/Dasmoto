@@ -1,0 +1,37 @@
+h1, h2, span {
+    font-family: Helvetica;
+}
+
+h1 {
+    background-image: url('/image/image1.jpeg');
+    font-size: 100px;
+    font-weight: bold;
+    color: rgba(240, 230, 140, 0.3);
+    text-align: center;
+}
+
+h2#brushes {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: rgba(84, 184, 114, 0.3);
+}
+
+h2#frames {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: rgb(131, 49, 49);
+}
+
+h2#paint {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: rgb(63, 101, 116);
+}
+
+span {
+    font-weight: bold;
+    color: blue;
+}
